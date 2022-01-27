@@ -13,6 +13,7 @@ gunicorn
 js2py
 lk21
 lxml
+pillow
 psutil
 psycopg2-binary
 pybase64
@@ -30,3 +31,4 @@ TgCrypto
 torrentool==1.1.0
 urllib3
 youtube_dl
+yt_dlp
