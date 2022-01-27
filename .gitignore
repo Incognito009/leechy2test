@@ -8,8 +8,12 @@ data*
 .idea
 *.json
 *.pickle
+.netrc
 authorized_chats.txt
+sudo_users.txt
 log.txt
 accounts/*
+Thumbnails/*
 README.md
 drive_folder
+cookies.txt
